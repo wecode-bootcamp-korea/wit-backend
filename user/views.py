@@ -31,13 +31,14 @@ class UserSignInView(View):
         user_input = json.loads(request.body)
         input_email = user_input["user_email"]
         input_password = user_input["user_password"]
-        user = User.objects.get(user_email=user_input['user_email'])
 
         if User.objects.filter(user_email=user_input['user_email']).exists():
             password = bytes(user_input['user_password'], "utf-8")
             hashed_password = bcrypt.hashpw(password, bcrypt.gensalt())
+            user = User.objects.get(user_email=user_input['user_email'])
+
             if bcrypt.checkpw(user_input['user_password'].encode("UTF-8"), user.user_password.encode("UTF-8")):
-                return JsonResponse({'success': True, 'message':'로그인 성공'},status=200)
+                return JsonResponse({'success': False, 'message':'로그인 성공'}, status=200)
             else:
                 return JsonResponse({'success': False, 'message':'올바른 비밀번호가 아닙니다'},status=401)
         else:
