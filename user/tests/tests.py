@@ -17,8 +17,7 @@ class UserSignInCase(TestCase):
         response = c.post('/user/signin', json.dumps({"user_email": "kim@gmail.com", "user_password": "qwer1234"}), content_type="application/json")
         self.assertEqual(response.status_code, 200)
 
-
-class UserSignUpCase(unittest.TestCase):
+class UserSignUpCase(TestCase):
     def setUp(self):
         # User.objects.create(user_email="ppp@gmail.com", user_nickname="yona", user_password="abcd1234")
         pass
