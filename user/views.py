@@ -16,7 +16,7 @@ class UserSignUpView(View):
         else:
             password = bytes(user_input['user_password'], "utf-8")
             hashed_password = bcrypt.hashpw(password, bcrypt.gensalt())
-
+            print(hashed_password)
             User(
                 user_email = user_input['user_email'],
                 user_nickname = user_input['user_nickname'],
