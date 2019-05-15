@@ -23,10 +23,10 @@ class TrainResultView(View):
 
     @login_decorator
     def post(self, request):
-
-        # print(f"user == {request.user}")
-
         front_input = json.loads(request.body)
+
+        # print(TrainInfo.objects.get(id=front_input['train_id']))
+
         TrainResult(
             activation_time = front_input['activation_time'],
             break_time = front_input['break_time'],

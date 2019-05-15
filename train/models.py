@@ -11,10 +11,10 @@ class TrainInfo(models.Model):
 
 # 유저의 운동 결과 저장
 class TrainResult(models.Model):
-    train = models.ForeignKey(TrainInfo, on_delete=models.CASCADE)
-    train_date = models.DateField(auto_now_add=True)
+    activation_time = models.TimeField()
     activation_time = models.TimeField()
     break_time = models.TimeField()
     train_set = models.IntegerField()
     calorie_consumption = models.IntegerField()
+    train = models.ForeignKey(TrainInfo, on_delete=models.CASCADE)
     user = models.ForeignKey(User, on_delete=models.CASCADE)

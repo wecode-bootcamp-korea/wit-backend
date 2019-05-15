@@ -80,7 +80,6 @@ WSGI_APPLICATION = 'wit_backend.wsgi.application'
 
 DATABASES = my_settings.DATABASES
 
-
 # DATABASES = {
 #     'default': {
 #         'ENGINE': 'django.db.backends.sqlite3',

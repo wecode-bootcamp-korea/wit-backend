@@ -8,7 +8,6 @@ from wit_backend.settings import wit_secret
 def login_decorator(f):        
     def wrapper(self, request, *args, **kwargs):
         access_token = request.headers.get('Authorization', None)
-        print(access_token)
         try:                   
             if access_token:   
                 decoded = jwt.decode(access_token, wit_secret, algorithms=['HS256'])
@@ -18,10 +17,8 @@ def login_decorator(f):
                 
                 return f(self, request, *args, **kwargs)
             else:   
-                print('else')           
                 return HttpResponse(status=401) 
         except jwt.DecodeError:
-            print('DecodeError') 
             return HttpResponse(status=401) 
     return wrapper
 

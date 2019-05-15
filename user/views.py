@@ -16,7 +16,6 @@ class UserSignUpView(View):
         else:
             password = bytes(user_input['user_password'], "utf-8")
             hashed_password = bcrypt.hashpw(password, bcrypt.gensalt())
-            print(hashed_password)
             User(
                 user_email = user_input['user_email'],
                 user_nickname = user_input['user_nickname'],
@@ -27,11 +26,7 @@ class UserSignUpView(View):
 
 # 로그인
 class UserSignInView(View):
-    def post(self, request):
-
-# 디버깅
-        # print(f"body == {request.body}")
-        
+    def post(self, request):        
         user_input = json.loads(request.body)
         input_email = user_input["user_email"]
         input_password = user_input["user_password"]
