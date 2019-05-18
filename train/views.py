@@ -1,9 +1,9 @@
 from django.shortcuts import render
 from django.http import JsonResponse, HttpResponse
 from django.views import View
-from .models import User, TrainInfo, TrainResult
+from .models import TrainInfo, TrainResult
 from django.core import serializers
-from user.utils import login_decorator
+from user.utils import login_required
 import json
 
 
@@ -21,11 +21,9 @@ class TrainResultView(View):
 
     model = TrainResult
 
-    @login_decorator
+    @login_required
     def post(self, request):
         front_input = json.loads(request.body)
-
-        # print(TrainInfo.objects.get(id=front_input['train_id']))
 
         TrainResult(
             activation_time = front_input['activation_time'],
@@ -36,4 +34,4 @@ class TrainResultView(View):
             user = request.user
         ).save()
 
-        return JsonResponse({'success': True, 'message': 'sign up success'},status=200)
+        return JsonResponse({'success': True, 'message': 'train result saved'},status=200)

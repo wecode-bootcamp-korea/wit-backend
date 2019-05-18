@@ -5,7 +5,7 @@ from django.http import JsonResponse, HttpResponse
 from .models import User
 from wit_backend.settings import wit_secret
 
-def login_decorator(f):        
+def login_required(f):        
     def wrapper(self, request, *args, **kwargs):
         access_token = request.headers.get('Authorization', None)
         try:                   
@@ -14,7 +14,6 @@ def login_decorator(f):
                 user_id = decoded["user_id"]    
                 user = User.objects.get(id=user_id)
                 request.user = user             
-                
                 return f(self, request, *args, **kwargs)
             else:   
                 return HttpResponse(status=401) 
