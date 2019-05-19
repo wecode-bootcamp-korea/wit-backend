@@ -16,30 +16,6 @@ class TrainTest(TestCase):
             default_calorie=777,
         ).save()
 
-        TrainInfo(
-            train_name="downup",
-            default_activation="0:00:03",
-            default_break="0:00:07",
-            default_set=1,
-            default_calorie=555,
-        ).save()
-        
-        TrainInfo(
-            train_name="push",
-            default_activation="0:00:01",
-            default_break="0:00:05",
-            default_set=3,
-            default_calorie=777,
-        ).save()
-
-        TrainInfo(
-            train_name="push1",
-            default_activation="0:00:01",
-            default_break="0:00:05",
-            default_set=4,
-            default_calorie=77,
-        ).save()
-
         c = Client()
         test     = {'user_email':'kim2@gmail.com', 'user_password':'qwer1234','user_nickname':'heybo22y'}
         response = c.post('/user/', json.dumps(test), content_type="application/json")

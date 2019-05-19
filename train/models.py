@@ -1,5 +1,4 @@
 from django.db import models
-# from user.models import User
 
 # 운동별 기본값
 class TrainInfo(models.Model):
@@ -11,6 +10,7 @@ class TrainInfo(models.Model):
 
 # 유저의 운동 결과 저장
 class TrainResult(models.Model):
+    train_date = models.DateTimeField(auto_now_add=True)
     activation_time = models.TimeField()
     break_time = models.TimeField()
     train_set = models.IntegerField()

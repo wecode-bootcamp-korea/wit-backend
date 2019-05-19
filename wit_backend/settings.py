@@ -26,9 +26,11 @@ SECRET_KEY = 'z-^79)lh*3boq#$a%&s)!72oj(f%_0+o4u^s2!k2c+4#vx9$9a'
 wit_secret = '4WaxCQFDSDbViX2AvriszHAYYjxpE9al'
 
 # SECURITY WARNING: don't run with debug turned on in production!
+
 DEBUG = False
 ALLOWED_HOSTS = ['*']
-# Application definition
+DATABASES = my_settings.ALLOWED_HOSTS
+
 
 INSTALLED_APPS = [
     'django.contrib.admin',
