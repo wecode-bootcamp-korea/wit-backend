@@ -1451,3 +1451,213 @@ ConnectionResetError: [Errno 104] Connection reset by peer
 [18/May/2019 11:06:05] "GET /user/ HTTP/1.1" 405 0
 [18/May/2019 11:08:58] "GET /train/all HTTP/1.1" 200 2202
 [18/May/2019 11:09:00] "GET /train/all HTTP/1.1" 200 2202
+Performing system checks...
+
+May 14, 2019 - 01:21:33
+Django version 2.2.1, using settings 'wit_backend.settings'
+Starting development server at http://0.0.0.0:8080/
+Quit the server with CONTROL-C.
+None
+else
+None
+else
+
+else
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3N30.iC0DHkrQ48DRhZgQPfmU5E5qOVWqPcx-y3hD86kvp9Q
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1c2VyX2lkIjo3Nn0.5X9F-dZIH9e7znOTQQfhE8cUsGVjPoxrWQk_Ni01edI
+Traceback (most recent call last):
+  File "manage.py", line 22, in <module>
+    execute_from_command_line(sys.argv)
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/django/core/management/__init__.py", line 381, in execute_from_command_line
+    utility.execute()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/django/core/management/__init__.py", line 325, in execute
+    settings.INSTALLED_APPS
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/django/conf/__init__.py", line 79, in __getattr__
+    self._setup(name)
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/django/conf/__init__.py", line 66, in _setup
+    self._wrapped = Settings(settings_module)
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/django/conf/__init__.py", line 157, in __init__
+    mod = importlib.import_module(self.SETTINGS_MODULE)
+  File "/usr/lib/python3.6/importlib/__init__.py", line 126, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "<frozen importlib._bootstrap>", line 994, in _gcd_import
+  File "<frozen importlib._bootstrap>", line 971, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 955, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 665, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 674, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 781, in get_code
+  File "<frozen importlib._bootstrap_external>", line 741, in source_to_code
+  File "<frozen importlib._bootstrap>", line 219, in _call_with_frames_removed
+  File "/home/ubuntu/wit-backend/wit_backend/settings.py", line 29
+    <<<<<<< HEAD
+     ^
+SyntaxError: invalid syntax
+[2019-05-18 11:26:38 +0000] [12858] [INFO] Starting gunicorn 19.9.0
+[2019-05-18 11:26:38 +0000] [12858] [INFO] Listening at: http://0.0.0.0:8000 (12858)
+[2019-05-18 11:26:38 +0000] [12858] [INFO] Using worker: sync
+[2019-05-18 11:26:38 +0000] [12861] [INFO] Booting worker with pid: 12861
+[2019-05-18 11:26:38 +0000] [12861] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named 'wit'
+[2019-05-18 11:26:38 +0000] [12861] [INFO] Worker exiting (pid: 12861)
+[2019-05-18 11:26:38 +0000] [12858] [INFO] Shutting down: Master
+[2019-05-18 11:26:38 +0000] [12858] [INFO] Reason: Worker failed to boot.
+[2019-05-18 11:27:12 +0000] [12865] [INFO] Starting gunicorn 19.9.0
+[2019-05-18 11:27:12 +0000] [12865] [INFO] Listening at: http://0.0.0.0:8000 (12865)
+[2019-05-18 11:27:12 +0000] [12865] [INFO] Using worker: sync
+[2019-05-18 11:27:12 +0000] [12868] [INFO] Booting worker with pid: 12868
+[2019-05-18 11:27:12 +0000] [12868] [ERROR] Exception in worker process
+Traceback (most recent call last):
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/arbiter.py", line 583, in spawn_worker
+    worker.init_process()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 129, in init_process
+    self.load_wsgi()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/workers/base.py", line 138, in load_wsgi
+    self.wsgi = self.app.wsgi()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/app/base.py", line 67, in wsgi
+    self.callable = self.load()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 52, in load
+    return self.load_wsgiapp()
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/app/wsgiapp.py", line 41, in load_wsgiapp
+    return util.import_app(self.app_uri)
+  File "/home/ubuntu/wit-backend/wit_env/lib/python3.6/site-packages/gunicorn/util.py", line 350, in import_app
+    __import__(module)
+ModuleNotFoundError: No module named 'wit'
+[2019-05-18 11:27:12 +0000] [12868] [INFO] Worker exiting (pid: 12868)
+[2019-05-18 11:27:12 +0000] [12865] [INFO] Shutting down: Master
+[2019-05-18 11:27:12 +0000] [12865] [INFO] Reason: Worker failed to boot.
+[2019-05-18 11:27:40 +0000] [12875] [INFO] Starting gunicorn 19.9.0
+[2019-05-18 11:27:40 +0000] [12875] [INFO] Listening at: http://0.0.0.0:8000 (12875)
+[2019-05-18 11:27:40 +0000] [12875] [INFO] Using worker: sync
+[2019-05-18 11:27:40 +0000] [12878] [INFO] Booting worker with pid: 12878
+[2019-05-18 11:28:08 +0000] [12886] [INFO] Booting worker with pid: 12886
+[2019-05-18 11:28:08 +0000] [12875] [INFO] Handling signal: hup
+[2019-05-18 11:28:08 +0000] [12875] [INFO] Hang up: Master
+[2019-05-18 11:28:08 +0000] [12888] [INFO] Booting worker with pid: 12888
+[2019-05-18 11:28:08 +0000] [12886] [INFO] Worker exiting (pid: 12886)
+[2019-05-18 11:37:05 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:12888)
+[2019-05-18 11:37:05 +0000] [12888] [INFO] Worker exiting (pid: 12888)
+[2019-05-18 11:37:05 +0000] [13036] [INFO] Booting worker with pid: 13036
+[2019-05-18 11:48:20 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:13036)
+[2019-05-18 11:48:20 +0000] [13036] [INFO] Worker exiting (pid: 13036)
+[2019-05-18 11:48:20 +0000] [13409] [INFO] Booting worker with pid: 13409
+[2019-05-18 11:52:08 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:13409)
+[2019-05-18 11:52:08 +0000] [13409] [INFO] Worker exiting (pid: 13409)
+[2019-05-18 11:52:08 +0000] [13414] [INFO] Booting worker with pid: 13414
+[2019-05-18 11:52:39 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:13414)
+[2019-05-18 11:52:39 +0000] [13414] [INFO] Worker exiting (pid: 13414)
+[2019-05-18 11:52:39 +0000] [13416] [INFO] Booting worker with pid: 13416
+[2019-05-18 12:05:50 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:13416)
+[2019-05-18 12:05:50 +0000] [13416] [INFO] Worker exiting (pid: 13416)
+[2019-05-18 12:05:50 +0000] [13431] [INFO] Booting worker with pid: 13431
+[2019-05-18 12:09:17 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:13431)
+[2019-05-18 12:09:17 +0000] [13431] [INFO] Worker exiting (pid: 13431)
+[2019-05-18 12:09:17 +0000] [13543] [INFO] Booting worker with pid: 13543
+[2019-05-18 14:07:01 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:13543)
+[2019-05-18 14:07:01 +0000] [13543] [INFO] Worker exiting (pid: 13543)
+[2019-05-18 14:07:01 +0000] [13668] [INFO] Booting worker with pid: 13668
+[2019-05-18 14:07:32 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:13668)
+[2019-05-18 14:07:32 +0000] [13668] [INFO] Worker exiting (pid: 13668)
+[2019-05-18 14:07:32 +0000] [13670] [INFO] Booting worker with pid: 13670
+[2019-05-19 05:25:08 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:13670)
+[2019-05-19 05:25:08 +0000] [13670] [INFO] Worker exiting (pid: 13670)
+[2019-05-19 05:25:08 +0000] [14905] [INFO] Booting worker with pid: 14905
+[2019-05-19 08:38:08 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:14905)
+[2019-05-19 08:38:08 +0000] [14905] [INFO] Worker exiting (pid: 14905)
+[2019-05-19 08:38:08 +0000] [15327] [INFO] Booting worker with pid: 15327
+[2019-05-19 10:57:26 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:15327)
+[2019-05-19 10:57:26 +0000] [15327] [INFO] Worker exiting (pid: 15327)
+[2019-05-19 10:57:26 +0000] [15812] [INFO] Booting worker with pid: 15812
+[2019-05-19 13:01:46 +0000] [12875] [CRITICAL] WORKER TIMEOUT (pid:15812)
+[2019-05-19 13:01:46 +0000] [15812] [INFO] Worker exiting (pid: 15812)
+[2019-05-19 13:01:46 +0000] [15843] [INFO] Booting worker with pid: 15843
