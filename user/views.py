@@ -1,11 +1,13 @@
 from django.shortcuts import render
-from django.http import JsonResponse
+from django.http import JsonResponse, HttpResponse
 from django.views import View
 from .models import User, UserDetail
 from train.models import TrainInfo
+from django.core import serializers
 import json, bcrypt, jwt, secrets
 from wit_backend.settings import wit_secret
 from user.utils import login_required
+
 
 
 # 회원가입
@@ -54,11 +56,36 @@ class UserDetailView(View):
 
     @login_required
     def get(self, request):
-        user_input = json.loads(request.body)
-        # 특정유저의 닉네임 불러오기
-        # 특정유저의 디테일정보가 있으면 불러오기
-        pass
+        user = request.user
+        user_detail = UserDetail.objects.filter(user_id=user.id)
+        user_preference = User.objects.filter(id=user.id).values('user_preference')
+    
+        # for a in range(len(user_preference)):
+        #     ttt = user_preference[a].values
+        #     print(ttt)
 
+        print(f"user detail = {user_detail[0]}")
+        print(f"user detail = {user_preference}")
+
+        new_list = []
+        for pref in user_preference:
+            new_list.append(pref['user_preference'])
+
+        data = {
+            'user_sex' : user_detail[0].user_sex,
+            'user_birthdate' : user_detail[0].user_birthdate,
+            'user_weight' : user_detail[0].user_weight,
+            'user_height' : user_detail[0].user_height,
+            # 'train_ids': [user_preference[0]['user_preference']]
+            'train_ids': [pref['user_preference'] for pref in user_preference]
+        }
+
+            # d['user_preference'] for d in user_preference
+
+        return JsonResponse(data)
+
+        # serialized_data = serializers.serialize('json', user_preference_list)
+        # return HttpResponse(user_preference_list, content_type='application/json')
 
     @login_required
     def post(self, request):

@@ -37,7 +37,7 @@ class TrainTest(TestCase):
             "break_time":"00:01:18",
             "train_set":2,
             "calorie_consumption":65566,
-            "train_id":1
+            "train_id": TrainInfo.objects.get(train_name = "pushpush").id
             }
 
         response     = c.post('/train', json.dumps(parameter), **{'HTTP_AUTHORIZATION':access_token, 'content_type':"application/json"})

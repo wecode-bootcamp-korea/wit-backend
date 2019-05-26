@@ -23,16 +23,20 @@ class TrainResultView(View):
 
     @login_required
     def post(self, request):
-        front_input = json.loads(request.body)
+        front_inputs = json.loads(request.body)
        
-        for t in front_input:
-            TrainResult(
-                activation_time = t['activation_time'],
-                break_time = t['break_time'],
-                train_set = t['train_set'],
-                calorie_consumption = t['calorie_consumption'],
-                train = TrainInfo.objects.get(id=t['train_id']),
-                user = request.user
-            ).save()
+        print(f"front inputs : {front_inputs}")
+
+        # for front_input in front_inputs:
+        #     print(f"key == {front_input}")
+
+        TrainResult(
+            activation_time = front_inputs['activation_time'],
+            break_time = front_inputs['break_time'],
+            train_set = front_inputs['train_set'],
+            calorie_consumption = front_inputs['calorie_consumption'],
+            train = TrainInfo.objects.get(id = front_inputs['train_id']),
+            user = request.user
+        ).save()
 
         return JsonResponse({'success': True, 'message': 'train result saved'},status=200)
