@@ -82,7 +82,7 @@ class UserDetailView(View):
 
             # d['user_preference'] for d in user_preference
 
-        return JsonResponse(data)
+        return HttpResponse(json.dumps(data, ensure_ascii=False), safe=False)
 
         # serialized_data = serializers.serialize('json', user_preference_list)
         # return HttpResponse(user_preference_list, content_type='application/json')
