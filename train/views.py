@@ -1,0 +1,42 @@
+from django.shortcuts import render
+from django.http import JsonResponse, HttpResponse
+from django.views import View
+from .models import TrainInfo, TrainResult
+from django.core import serializers
+from user.utils import login_required
+import json
+
+
+#운동별 상수값 가져오기
+class TrainInfoView(View):
+    
+    model = TrainInfo
+
+    def get(self, request):
+        data = serializers.serialize('json', TrainInfo.objects.all())
+        return HttpResponse(data, content_type='application/json')
+        
+#유저별 운동결과 저장
+class TrainResultView(View):
+
+    model = TrainResult
+
+    @login_required
+    def post(self, request):
+        front_inputs = json.loads(request.body)
+       
+        print(f"front inputs : {front_inputs}")
+
+        # for front_input in front_inputs:
+        #     print(f"key == {front_input}")
+
+        TrainResult(
+            activation_time = front_inputs['activation_time'],
+            break_time = front_inputs['break_time'],
+            train_set = front_inputs['train_set'],
+            calorie_consumption = front_inputs['calorie_consumption'],
+            train = TrainInfo.objects.get(id = front_inputs['train_id']),
+            user = request.user
+        ).save()
+
+        return JsonResponse({'success': True, 'message': 'train result saved'},status=200)

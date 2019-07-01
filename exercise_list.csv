@@ -1,0 +1,16 @@
+train_name,default_activation,default_break,default_set,default_calorie
+pushup,0:00:30,0:00:10,3,100
+burpee,0:00:30,0:00:10,3,110
+reptile,0:00:30,0:00:10,3,120
+russian twist,12:00:45,0:00:15,2,130
+lunge,0:00:55,0:00:10,4,140
+plank,0:00:45,0:00:10,1,150
+squat jump,0:00:55,0:00:10,1,160
+jumping jack,0:00:55,0:00:10,1,170
+mountain climbers,0:00:55,0:00:10,2,180
+donkey kicks ,0:00:55,0:00:10,2,190
+fire hydrant,0:00:55,0:00:10,2,200
+side plank,0:00:55,0:00:10,2,210
+hip raise ,0:00:55,0:00:10,2,220
+high knees,0:00:55,0:00:10,2,230
+inchworm,0:00:55,0:00:10,2,240
